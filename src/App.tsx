@@ -15,7 +15,7 @@ const posts = [
       name: 'Camilly',
       role: 'Leitora'
     },
-    content:'oi gente sou a Camilly e shipooo muitoooo, o  Deyvid com a Jude, casal perfeito',
+    content:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus metus arcu, in rhoncus ipsum rutrum non. Sed tempor mauris fermentum, viverra urna a, posuere risus. Aenean nec ex odio. Proin tincidunt lectus sit amet orci euismod tincidunt. Nullam rhoncus molestie viverra.',
     publishedAt:new Date('2023-03-01 20:00:00')
   },
 
@@ -26,7 +26,7 @@ const posts = [
       name: 'Jude',
       role: ''
     },
-    content:'Te amo Deyvid',
+    content:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus metus arcu, in rhoncus ipsum rutrum non. Sed tempor mauris fermentum, viverra urna a, posuere risus. Aenean nec ex odio. Proin tincidunt',
     publishedAt:new Date('2023-03-05 20:00:00')
   }
 ];
